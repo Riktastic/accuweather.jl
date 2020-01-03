@@ -29,7 +29,7 @@ Please read [CONTRIBUTING.md] for details on our code of conduct, and the proces
 
 * **Rik Heijmann** - *Initial work* - [RHeijmann](https://github.com/RHeijmann)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/RHeijmann/accuweather.jl/contributors) who participated in this project.
 
 ## License
 
